@@ -1,0 +1,6 @@
+C:\Users\Hazker\Desktop\Homeworks\HEX_EDITOR\HEX_EDITOR\bin\Debug\HEX_EDITOR.exe.config
+C:\Users\Hazker\Desktop\Homeworks\HEX_EDITOR\HEX_EDITOR\bin\Debug\HEX_EDITOR.exe
+C:\Users\Hazker\Desktop\Homeworks\HEX_EDITOR\HEX_EDITOR\bin\Debug\HEX_EDITOR.pdb
+C:\Users\Hazker\Desktop\Homeworks\HEX_EDITOR\HEX_EDITOR\obj\Debug\HEX_EDITOR.exe
+C:\Users\Hazker\Desktop\Homeworks\HEX_EDITOR\HEX_EDITOR\obj\Debug\HEX_EDITOR.pdb
+C:\Users\Hazker\Desktop\Homeworks\HEX_EDITOR\HEX_EDITOR\obj\Debug\HEX_EDITOR.csprojResolveAssemblyReference.cache
